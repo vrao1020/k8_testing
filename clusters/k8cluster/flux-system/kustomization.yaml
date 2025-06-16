@@ -5,4 +5,3 @@ metadata:
 resources:
   - gotk-components.yaml
   - gotk-sync.yaml
-  - blue.yaml
