@@ -33,6 +33,7 @@ metadata:
   name: blue
   labels:
     app: blue
+  namespace: default
 spec:
   selector:
     app: blue
